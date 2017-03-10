@@ -2,7 +2,7 @@
   "name": "smagla",
   "version": "0.0.0",
   "private": true,
-  "author": "nakana <t-nakanishi@esm.co.jp>",
+  "author": "nakana",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
     "hubot": "^2.19.0",
